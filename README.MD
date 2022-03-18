@@ -1,3 +1,5 @@
-# TITULO 1
-``DSAIOJDSAIOJDSAIDSIAJDASIJDASIODJSA``
-![./img/cachrrnho.jpg]
+# Descrição GIT
+###Atividade de PPW II
+Grupo: Bruno Mariani, Flávia De Noni e Guilherme de Brida
+
+![](./img/cachorrnho.jpg)
